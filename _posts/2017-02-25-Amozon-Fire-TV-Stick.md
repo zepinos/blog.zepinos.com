@@ -2,7 +2,8 @@
 layout: post
 title: Apps2Fire 을 통해 Fire TV Stick 에 KODI 을 설치할 때 INSTALL_FAILED_NO_MATCHING_ABIS 가 발생하는 문제
 comments: true
-tags: [취미생활, FireTV, AFTV]
+category: etc
+tags: 취미생활, FireTV, AFTV
 ---
 
 LG TV 에서 NAS 의 동영상 보는 것은 도저히 못해먹을 짓이라는 걸 드디어 인정하고(USB 로 퍼다 날라도 안되는건 안되는 것임) Amazon Fire TV Stick 을 네이버페이에 입점한 구매대행을 통해 새걸로 구입했습니다. 좀 비싸도 그냥 신경 끄고 있으면 되니까...
