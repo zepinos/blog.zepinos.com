@@ -48,14 +48,14 @@ disqus_shortname: zepinos
 
 # Category descriptions (for archive pages)
 descriptions:
+  - cat: Java
+      desc: "Java Programming."
 #  - cat: jekyll
 #    desc: "Posts describing Jekyll setup techniques."
 #
 #  - cat: dummy
 #    desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-  - cat: Java
-      desc: "Java Programming."
 
 # Social icons and sharing options
 #
@@ -196,6 +196,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+#    os_repo: "https://github.com/bencentra/centrarium.com"
+#    os_rcs_type: "git"
+#    os_src: "git@github.com:bencentra/centrarium.com.git"
