@@ -83,7 +83,7 @@ social:
   - name: Facebook
     icon: facebook
     username: zepinos
-    url:
+    url: https://www.facebook.com/zepinos
     desc: Friend me on Facebook
     share: true
 
@@ -104,7 +104,7 @@ social:
   - name: Google+
     icon: google-plus
     username: zepinos
-    url:
+    url: https://plus.google.com/108883781907499016998
     desc: Add me to your Circles
     share: true
 
@@ -146,7 +146,7 @@ social:
   - name: Steam
     icon: steam
     username: zepinos
-    url:
+    url: https://steamcommunity.com/id/zepinos/
     desc: Friend me on Steam
     share: false
 
