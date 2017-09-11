@@ -1,8 +1,10 @@
 ---
 layout: post
 title: MyBatis(iBatis) 에서 Oralce 등의 Sequence 을 쓸 때 <selectKey> 을 권장하는 이유
+author: zepinos
 comments: true
 categories: Java
+cover:  "/assets/instacode.png"
 ---
 
 이 글을 쓰는 시점에서 약간 지난(2~3주 쯤 된 것 같다) 시점에서 한 커뮤니티에 대략 아래와 같은 글이 올라왔다.

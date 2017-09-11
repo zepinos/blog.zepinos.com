@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apps2Fire 을 통해 Fire TV Stick 에 KODI 을 설치할 때 INSTALL_FAILED_NO_MATCHING_ABIS 가 발생하는 문제
+author: zepinos
 comments: true
 category: etc
 ---
