@@ -3,7 +3,7 @@ layout: post
 title: MyBatis(iBatis) 에서 Oralce 등의 Sequence 을 쓸 때 &lt;selectKey&gt; 을 권장하는 이유
 author: zepinos
 comments: true
-categories: Java
+categories: Java-MyBatis
 cover:  "/assets/instacode.png"
 ---
 
