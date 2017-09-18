@@ -48,8 +48,12 @@ ga_tracking_id: "UA-106638181-1"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Java
-    desc: "Java Programming."
+  - cat: Java-MyBatis
+    desc: "MyBatis(iBatis) 경험담"
+  - cat: JSON
+    desc: "JSON 경험담"
+  - cat: Java-Redis
+    desc: "Java 을 이용한 Redis 경험담"
 #  - cat: jekyll
 #    desc: "Posts describing Jekyll setup techniques."
 #
