@@ -44,7 +44,7 @@ highlightjs_theme: "monokai-sublime"
 disqus_shortname: zepinos
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-106638181-1"
 
 # Category descriptions (for archive pages)
 descriptions:
